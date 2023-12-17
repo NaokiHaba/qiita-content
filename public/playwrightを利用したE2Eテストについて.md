@@ -38,7 +38,7 @@ https://github.com/NaokiHaba/playwright-next-app-sample
 - Node.js のインストール
   - https://nodejs.org/en/download/package-manager/
 - GitHubアカウントの作成
-  - https://github.co.jp/
+  - https://github.com/
 - GitHubリポジトリの作成
   - https://docs.github.com/ja/repositories/creating-and-managing-repositories/quickstart-for-repositories
 
