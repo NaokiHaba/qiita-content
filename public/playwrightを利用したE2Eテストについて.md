@@ -5,8 +5,8 @@ tags:
   - TypeScript
   - e2e
   - Playwright
-private: true
-updated_at: '2023-12-17T23:10:27+09:00'
+private: false
+updated_at: '2023-12-18T07:02:41+09:00'
 id: b4853861419fbc23816d
 organization_url_name: null
 slide: false
