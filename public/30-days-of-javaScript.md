@@ -2,7 +2,7 @@
 title: 30-days-of-javaScript
 tags:
   - 'javascript'
-private: false
+private: true
 updated_at: ''
 id: null
 organization_url_name: null
