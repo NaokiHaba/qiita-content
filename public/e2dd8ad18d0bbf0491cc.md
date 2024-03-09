@@ -3,7 +3,7 @@ title: 【NestJS】GCSからSigned URLをクライアントサイドに返却す
 tags:
   - GCS
   - NestJS
-  - googlecloud
+  - GoogleCloud
 private: false
 updated_at: '2022-07-01T03:06:16+09:00'
 id: e2dd8ad18d0bbf0491cc

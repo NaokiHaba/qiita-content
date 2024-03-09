@@ -4,7 +4,7 @@ tags:
   - TypeScript
   - datastore
   - NestJS
-  - googlecloud
+  - GoogleCloud
 private: false
 updated_at: '2022-07-01T02:55:43+09:00'
 id: 2abe5fc6eb615f5d5c2b
