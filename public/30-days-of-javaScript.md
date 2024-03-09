@@ -1,10 +1,10 @@
 ---
 title: 30-days-of-javaScript
 tags:
-  - 'javascript'
+  - JavaScript
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-03-09T22:51:00+09:00'
+id: ed77d8a161adfce4fa44
 organization_url_name: null
 slide: false
 ignorePublish: false
