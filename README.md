@@ -228,7 +228,7 @@ npx qiita version
 ## ユーザー設定ファイルについて
 
 `npx qiita init`コマンドで生成される`qiita.config.json`について説明します。  
-このファイルを用いて、Qiita CLI の設定を行うことができます。  
+このファイルを用いて、Qiita CLI の設定を行えます。  
 設定できるオプションは以下の通りです。
 
 - includePrivate: qiita.com からダウンロードして保存する記事に限定共有記事を含めるかどうかを選べます。デフォルトは`false`です。
