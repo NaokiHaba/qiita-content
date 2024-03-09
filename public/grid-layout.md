@@ -1,5 +1,5 @@
 ---
-title: grid-layout
+title: 作って学ぶ　HTML + CSS グリッドレイアウトを読む
 tags:
   - 'css'
   - 'grid'
@@ -11,7 +11,9 @@ slide: false
 ignorePublish: false
 ---
 
-# grid layout
+# 作って学ぶ　HTML + CSS グリッドレイアウト
+
+## CSS Grid Layoutとは
 
 > CSS Grid Layoutの主要な概念は以下の3つです。
 > - Grid Lines (グリッド線)
