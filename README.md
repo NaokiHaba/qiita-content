@@ -1,7 +1,7 @@
 # Qiita CLI、Qiita Preview へようこそ！
 
 Qiita CLI とは、手元の環境で記事の執筆・プレビュー・投稿ができるツールです。  
-Qiita CLI を使うことで、普段お使いのエディタなどを使って記事の執筆・投稿がしやすくなります。
+Qiita CLI を使うことで、普段お使いのエディタなどを使って記事の執筆・投稿がよりしやすくなります。
 
 - よくあるお問い合わせ等を記載しております→[FAQ](#FAQ)
 - 不具合やご意見などございましたら[Qiita Discussions](https://github.com/increments/qiita-discussions/discussions)へご投稿ください。
@@ -194,7 +194,7 @@ Qiita CLI、Qiita Preview から記事の削除はできません。
 
 ### help
 
-簡単なヘルプが見れます。
+簡単なヘルプが見られます。
 
 ```console
 npx qiita help
@@ -228,7 +228,7 @@ npx qiita version
 ## ユーザー設定ファイルについて
 
 `npx qiita init`コマンドで生成される`qiita.config.json`について説明します。  
-このファイルを用いて、Qiita CLI の設定を行うことができます。  
+このファイルを用いて、Qiita CLI の設定を行えます。  
 設定できるオプションは以下の通りです。
 
 - includePrivate: qiita.com からダウンロードして保存する記事に限定共有記事を含めるかどうかを選べます。デフォルトは`false`です。
