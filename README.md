@@ -194,7 +194,7 @@ Qiita CLI、Qiita Preview から記事の削除はできません。
 
 ### help
 
-簡単なヘルプが見れます。
+簡単なヘルプが見られます。
 
 ```console
 npx qiita help
