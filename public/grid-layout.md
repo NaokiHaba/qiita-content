@@ -1,11 +1,11 @@
 ---
 title: 作って学ぶ　HTML + CSS グリッドレイアウトを読む
 tags:
-  - 'css'
-  - 'grid'
+  - CSS
+  - grid
 private: true
-updated_at: ''
-id: null
+updated_at: '2024-03-10T01:26:56+09:00'
+id: d52d0739b31431e24472
 organization_url_name: null
 slide: false
 ignorePublish: false
