@@ -3,7 +3,7 @@ title: 30-days-of-javaScript
 tags:
   - JavaScript
 private: true
-updated_at: '2024-03-11T01:37:22+09:00'
+updated_at: '2024-03-11T01:38:48+09:00'
 id: 2682035fa1f2c46afbb1
 organization_url_name: null
 slide: false
